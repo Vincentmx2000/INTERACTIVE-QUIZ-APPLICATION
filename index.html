@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Fun Quiz App</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Start Screen -->
+  <div id="start-container" class="container">
+    <h1>Welcome to the Quiz!</h1>
+    <button id="start-btn">Play Quiz</button>
+  </div>
+
+  <!-- Quiz Screen -->
+  <div id="quiz-container" class="container hidden">
+    <h2 id="question">Question text</h2>
+    <ul id="answer-list"></ul>
+    <div id="feedback"></div>
+    <button id="next-btn" class="hidden">Next Question</button>
+  </div>
+
+  <!-- Score Screen -->
+  <div id="score-container" class="container hidden">
+    <h2>Quiz Completed!</h2>
+    <p id="score"></p>
+    <button id="restart-btn">Restart Quiz</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

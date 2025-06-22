@@ -31,3 +31,16 @@ LocalStorage API – to store and display the high score
 This project has been a really fun and rewarding learning experience. It taught me how to combine clean design with smart logic, and how little things like randomizing answers or showing real-time feedback can go a long way in making a web app feel polished and complete. There’s still room to grow—maybe by adding sound effects, a backend for saving user data, or more categories—but for now, I’m proud of how functional and fun it is.
 
 
+*OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/6bead336-deac-45b7-8ca4-ffc61d90cc48)
+![Image](https://github.com/user-attachments/assets/35c05641-7b0e-4fb9-8843-e73d8f4c40ef)
+![Image](https://github.com/user-attachments/assets/b40b42f6-25d4-45e7-9fda-7ee4c0b980fb)
+![Image](https://github.com/user-attachments/assets/ed6fd94d-50de-4622-9587-14dfd645bb53)
+![Image](https://github.com/user-attachments/assets/cfca4743-b860-4c87-af80-ca2920ee0b29)
+![Image](https://github.com/user-attachments/assets/db447b90-edb0-40b4-b99e-9f97bf8ecb90)
+![Image](https://github.com/user-attachments/assets/cc57ed11-09b3-44b9-be39-74c29811c886)
+![Image](https://github.com/user-attachments/assets/097db18c-c6f8-4d06-9eeb-cd3cebbd836f)
+
+
+
